@@ -1,0 +1,21 @@
+{
+    "libros": [{
+            "id": 1,
+            "nombre": "Papaito Piernas largas",
+            "autor": "Jean Webster",
+            "año": 1993
+        },
+        {
+            "id": 2,
+            "nombre": "Narraciones Extaordinarias",
+            "autor": "Edgar Allan Poe",
+            "año": 1859
+        },
+        {
+            "id": 3,
+            "nombre": "La Iliada",
+            "autor": "Homero",
+            "año": "N/N"
+        }
+    ]
+}
